@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>04/23/2020 06:32</Date>
+	<AppInfo>
+		<Version>1.5.0.5855</Version>
+		<Licensed>Yes</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 Pro 64-bit - Client 10.0.19041.1 (hr-HR) - hr-HR</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 10 Enterprise 64-bit - Client 10.0.18362.418 (hr-HR)</Version>
+		<GUID>{D10C8F31-783B-4C05-A4E6-B1C25D088525}</GUID>
+	</ImageInfo>
+	<RemoveComponents>
+		<c>accessibility 'Alati pristupačnosti'</c>
+		<c>actioncenter 'Akcijski centar'</c>
+		<c>activedirectory 'Active Directory'</c>
+		<c>adamclient 'Active Directory Lightweight Directory Services (AD LDS)'</c>
+		<c>alg 'Application Layer Gateway Service'</c>
+		<c>alljoyn 'AllJoyn Router Service'</c>
+		<c>appid 'Aplikacijski Identity Service'</c>
+		<c>appv 'Application Virtualization (App-V)'</c>
+		<c>asimov 'Jedinstveni Telemetrijski Klijent (Asimov)'</c>
+		<c>assembly.net 'NET sklop predmemorije'</c>
+		<c>autoplay 'Automatska reprodukcija'</c>
+		<c>axinstall 'ActiveX Installer Service'</c>
+		<c>azuread 'Azure Active Directory'</c>
+		<c>backgroundtransfer 'Networking Background Transfer'</c>
+		<c>biometricservice 'Windows Biometric Service'</c>
+		<c>bits 'Background Intelligent Transfer Service (BITS)'</c>
+		<c>branchcacheclient 'BranchCache Client'</c>
+		<c>cdpsvc 'Connected Device Platform Service (CDPSvc)'</c>
+		<c>ceip 'CEIP (SQM)'</c>
+		<c>charmap 'Character Map'</c>
+		<c>containers</c>
+		<c>credentialmanager 'Credential Manager'</c>
+		<c>dashost 'Device Association Service'</c>
+		<c>datacenterbridging 'Data Center Bridging (DCB)'</c>
+		<c>deviceexperience 'Device Experience'</c>
+		<c>devicemanagement 'Device Management'</c>
+		<c>devicesflow 'Devices Flow'</c>
+		<c>devicesync 'Microsoft Sync Framework'</c>
+		<c>devquerybroker 'DevQuery Background Discovery Broker'</c>
+		<c>directaccess 'Direct Access Connection'</c>
+		<c>diskdiagnosis 'Dijagnostika kvara diska'</c>
+		<c>diskquota 'Disk Quota'</c>
+		<c>displayswitch 'Display Switch'</c>
+		<c>dmwappushsvc 'WAP Push Message Routing Service (dmwappushsvc)'</c>
+		<c>dnsclient 'DNS Client'</c>
+		<c>driver_c_printer.inf</c>
+		<c>driver_c_volsnap.inf</c>
+		<c>driver_eaphost.inf</c>
+		<c>driver_kdnic.inf</c>
+		<c>driver_ntprint.inf</c>
+		<c>driver_ntprint4.inf</c>
+		<c>driver_printqueue.inf</c>
+		<c>driver_prnge001.inf</c>
+		<c>driver_prnms002.inf</c>
+		<c>driver_prnms003.inf</c>
+		<c>driver_prnms004.inf</c>
+		<c>driver_prnms005.inf</c>
+		<c>driver_prnms007.inf</c>
+		<c>driver_prnms008.inf</c>
+		<c>driver_prnms010.inf</c>
+		<c>driver_prnms011.inf</c>
+		<c>driver_prnms012.inf</c>
+		<c>driver_prnms014.inf</c>
+		<c>driver_rdpbus.inf</c>
+		<c>driver_termkbd.inf</c>
+		<c>driver_termmou.inf</c>
+		<c>driver_ts_generic.inf</c>
+		<c>driver_usbprint.inf</c>
+		<c>driver_volsnap.inf</c>
+		<c>dvdplay 'DVD Play'</c>
+		<c>eaphost 'Extensible Authentication Protocol (EAP)'</c>
+		<c>easeofaccessthemes 'Olakšani pristup temama'</c>
+		<c>embeddedexperience 'Device Lockdown (Embedded Experience)'</c>
+		<c>embeddedmode 'Embedded Mode'</c>
+		<c>encprovider 'Windows Encryption Provider Host Service'</c>
+		<c>enhancedstorage 'Enhanced Storage'</c>
+		<c>enterpriseclientsync 'Work Folders Client'</c>
+		<c>errorreporting 'Prijava greške Windowsa'</c>
+		<c>eudcedit 'Osobni uređivač znakova'</c>
+		<c>eventtracing 'Event Tracing for Windows (ETW)'</c>
+		<c>exchangeactivesync 'Exchange ActiveSync (EAS)'</c>
+		<c>fciclient 'File Server Resource Manager'</c>
+		<c>fdphost 'Network Discovery'</c>
+		<c>filehistory 'File History'</c>
+		<c>flashactivex 'Adobe Flash za Internet Explorer'</c>
+		<c>font_arialblack 'Arial Black'</c>
+		<c>font_calibri 'Calibri'</c>
+		<c>font_cambria 'Cambria'</c>
+		<c>font_cambria_regular 'Cambria &amp; Cambria Math'</c>
+		<c>font_candara 'Candara'</c>
+		<c>font_comicsansms 'ComicSansMS'</c>
+		<c>font_constantia 'Constantia'</c>
+		<c>font_corbel 'Corbel'</c>
+		<c>font_courier 'Courier'</c>
+		<c>font_ebrima 'Ebrima'</c>
+		<c>font_ebrimabold 'Ebrima Bold'</c>
+		<c>font_fixed 'Fixed'</c>
+		<c>font_franklingothic 'FranklinGothic'</c>
+		<c>font_gabriola 'Gabriola'</c>
+		<c>font_gadugi 'Gadugi'</c>
+		<c>font_gadugibold 'Gadugi Bold'</c>
+		<c>font_georgia 'Georgia'</c>
+		<c>font_impact 'Impact'</c>
+		<c>font_javanesetext 'Javanese Text'</c>
+		<c>font_leelawadeeui 'LeelawadeeUI'</c>
+		<c>font_leelawadeeui_regular 'Leelawadee UI'</c>
+		<c>font_lucidasans 'Lucida Sans Unicode'</c>
+		<c>font_malgungothic 'Malgun Gothic'</c>
+		<c>font_malgungothicbold 'Malgun Gothic Bold'</c>
+		<c>font_malgungothicsemilight 'Malgun Gothic SemiLight'</c>
+		<c>font_microsofthimalaya 'Microsoft Himalaya'</c>
+		<c>font_microsoftjhenghei 'Microsoft JhengHei &amp; Microsoft JhengHei UI'</c>
+		<c>font_microsoftjhengheibold 'Microsoft JhengHei Bold &amp; Microsoft JhengHei UI Bold'</c>
+		<c>font_microsoftjhengheilight 'Microsoft JhengHei Light &amp; Microsoft JhengHei UI Light'</c>
+		<c>font_microsoftyahei 'Microsoft YaHei &amp; Microsoft YaHei UI'</c>
+		<c>font_microsoftyaheibold 'Microsoft YaHei Bold &amp; Microsoft YaHei UI Bold'</c>
+		<c>font_microsoftyaheilight 'Microsoft YaHei Light &amp; Microsoft YaHei UI Light'</c>
+		<c>font_mingliub 'MingLiU-ExtB &amp; PMingLiU-ExtB &amp; MingLiU_HKSCS-ExtB'</c>
+		<c>font_mongolianbaiti 'Mongolian Baiti'</c>
+		<c>font_msgothic 'MS Gothic &amp; MS UI Gothic &amp; MS PGothic'</c>
+		<c>font_mvboli 'MV Boli'</c>
+		<c>font_myanmartext 'Myanmar Text'</c>
+		<c>font_myanmartextbold 'Myanmar Text Bold'</c>
+		<c>font_newtailue 'Microsoft New Tai Lue'</c>
+		<c>font_newtailuebold 'Microsoft New Tai Lue Bold'</c>
+		<c>font_nirmalaui 'NirmalaUI'</c>
+		<c>font_nirmalaui_regular 'Nirmala UI'</c>
+		<c>font_oem 'OEM'</c>
+		<c>font_palatinolinotype 'PalatinoLinotype'</c>
+		<c>font_phagspa 'Microsoft PhagsPa'</c>
+		<c>font_phagspabold 'Microsoft PhagsPa Bold'</c>
+		<c>font_segoeprint 'Segoe Print'</c>
+		<c>font_segoeprintbold 'Segoe Print Bold'</c>
+		<c>font_segoescript 'SegoeScript'</c>
+		<c>font_segoeui_italicssupplement 'SegoeUI ItalicsSupplement'</c>
+		<c>font_simsun 'SimSun &amp; NSimSun'</c>
+		<c>font_simsunb 'SimSun-ExtB'</c>
+		<c>font_sitka 'Sitka'</c>
+		<c>font_sylfaen 'Sylfaen'</c>
+		<c>font_taile 'Microsoft Tai Le'</c>
+		<c>font_tailebold 'Microsoft Tai Le Bold'</c>
+		<c>font_trebuchetms 'TrebuchetMS'</c>
+		<c>font_vector 'Vector'</c>
+		<c>font_webdings 'Webdings'</c>
+		<c>font_wingdings 'Wingdings'</c>
+		<c>font_yibaiti 'Microsoft Yi Baiti'</c>
+		<c>font_yugothic 'Yu Gothic Regular &amp; Yu Gothic UI Semilight'</c>
+		<c>font_yugothicbold 'Yu Gothic Bold &amp; Yu Gothic UI Semibold &amp; Yu Gothic UI Bold'</c>
+		<c>font_yugothiclight 'Yu Gothic Light &amp; Yu Gothic UI Light'</c>
+		<c>font_yugothicmedium 'Yu Gothic Medium &amp; Yu Gothic UI Regular'</c>
+		<c>frameserver 'Camera Frame Server'</c>
+		<c>gameexplorer 'Game Explorer'</c>
+		<c>gpiobuttons 'General-Purpose I/O (GPIO)'</c>
+		<c>guardedhost 'Guarded Host'</c>
+		<c>homegroup</c>
+		<c>hwsupport_fax 'Fax'</c>
+		<c>hwsupport_floppy 'Flopi disk'</c>
+		<c>hwsupport_infrared 'Infracrveni uređaji'</c>
+		<c>hwsupport_internetprintingclient 'Internet Printing klijent'</c>
+		<c>hwsupport_printer 'Printanje'</c>
+		<c>hwsupport_smartcard 'Smartcard'</c>
+		<c>hwsupport_telephony 'Telefonija'</c>
+		<c>hwsupport_tv 'TV Tuner codeci i podrška'</c>
+		<c>hwsupport_wia 'Windows Image Acquisition (WIA)'</c>
+		<c>ias 'Internet Authentication Service (IAS)'</c>
+		<c>identityfoundation 'Windows Identity Foundation (WIF)'</c>
+		<c>iis 'Internet Information Server (IIS)'</c>
+		<c>ikeext 'IKE and AuthIP IPsec Keying Modules'</c>
+		<c>indeo 'Intel Indeo Codeci'</c>
+		<c>internetexplorerfeature 'Internet Explorer Feature (UI)'</c>
+		<c>iphelper 'Internet Protocol Helper (IP Helper)'</c>
+		<c>iscsi 'iSCSI Initiator'</c>
+		<c>isolatedusermode 'Isolated user mode (IUM)'</c>
+		<c>kerneldebug 'Kernel Debugging'</c>
+		<c>kl-00000401 'arapski (101)'</c>
+		<c>kl-00000402 'bugarski (strojopis)'</c>
+		<c>kl-00000404 'kineski (tradicionalni) - SAD'</c>
+		<c>kl-00000405 'češki'</c>
+		<c>kl-00000406 'danski'</c>
+		<c>kl-00000407 'Njemački'</c>
+		<c>kl-00000408 'grčki'</c>
+		<c>kl-0000040a 'Španjolski'</c>
+		<c>kl-0000040b 'Finski'</c>
+		<c>kl-0000040c 'Francuski'</c>
+		<c>kl-0000040d 'Hebrejski'</c>
+		<c>kl-0000040e 'Mađarski'</c>
+		<c>kl-0000040f 'Islandski'</c>
+		<c>kl-00000410 'Talijanski'</c>
+		<c>kl-00000411 'Japanski'</c>
+		<c>kl-00000412 'Korejski'</c>
+		<c>kl-00000413 'Nizozemski'</c>
+		<c>kl-00000414 'Norveški'</c>
+		<c>kl-00000415 'Poljski (Programeri)'</c>
+		<c>kl-00000416 'portugalski (brazilski ABNT)'</c>
+		<c>kl-00000418 'Rumunjski (stariji)'</c>
+		<c>kl-00000419 'Ruski'</c>
+		<c>kl-0000041b 'Slovački'</c>
+		<c>kl-0000041c 'Albanski'</c>
+		<c>kl-0000041d 'Švedski'</c>
+		<c>kl-0000041e 'Thai Kedmanee'</c>
+		<c>kl-0000041f 'Turski Q'</c>
+		<c>kl-00000420 'Urdu'</c>
+		<c>kl-00000422 'Ukrajinski'</c>
+		<c>kl-00000423 'Bjeloruski'</c>
+		<c>kl-00000424 'Slovenski'</c>
+		<c>kl-00000425 'Estonski'</c>
+		<c>kl-00000426 'Latvijski'</c>
+		<c>kl-00000427 'Litavski IBM'</c>
+		<c>kl-00000428 'Tadžički'</c>
+		<c>kl-00000429 'Perzijski'</c>
+		<c>kl-0000042a 'Vijetnamski'</c>
+		<c>kl-0000042b 'armenski istočni (naslijeđeno)'</c>
+		<c>kl-0000042c 'azerski – latinica'</c>
+		<c>kl-0000042e 'lužičkosrpski, standardni (naslijeđeno)'</c>
+		<c>kl-0000042f 'makedonski (Sjeverna Makedonija)'</c>
+		<c>kl-00000432 'Setswana'</c>
+		<c>kl-00000437 'gruzijsko pismo (naslijeđeno)'</c>
+		<c>kl-00000438 'Farerski'</c>
+		<c>kl-00000439 'devanagari - INSCRIPT'</c>
+		<c>kl-0000043a 'Malteški 47 tipki'</c>
+		<c>kl-0000043b 'Norveški sa saamijskim'</c>
+		<c>kl-0000043f 'Kazaški'</c>
+		<c>kl-00000440 'Kirgiski ćirilica'</c>
+		<c>kl-00000442 'Turkmenski'</c>
+		<c>kl-00000444 'tatarsko (staro)'</c>
+		<c>kl-00000445 'bengalski'</c>
+		<c>kl-00000446 'Pandžapski'</c>
+		<c>kl-00000447 'Gudžarati'</c>
+		<c>kl-00000448 'orijski'</c>
+		<c>kl-00000449 'Tamilski'</c>
+		<c>kl-0000044a 'Teluški'</c>
+		<c>kl-0000044b 'Kannada'</c>
+		<c>kl-0000044c 'Malajalamski'</c>
+		<c>kl-0000044d 'asamski - INSCRIPT'</c>
+		<c>kl-0000044e 'Marathi'</c>
+		<c>kl-00000450 'Mongolski ćirilica'</c>
+		<c>kl-00000451 'Tibetanski (NRK)'</c>
+		<c>kl-00000452 'Prošireno za Ujedinjeno Kraljevstvo'</c>
+		<c>kl-00000453 'Kmerski'</c>
+		<c>kl-00000454 'Laoski'</c>
+		<c>kl-0000045a 'Sirijski'</c>
+		<c>kl-0000045b 'Sinhaleški'</c>
+		<c>kl-0000045c 'jezik naroda Čeroki'</c>
+		<c>kl-00000461 'Nepalski'</c>
+		<c>kl-00000463 'Pašto (Afganistan)'</c>
+		<c>kl-00000465 'maldivski fonetski'</c>
+		<c>kl-00000468 'Hausa'</c>
+		<c>kl-0000046a 'Joruba'</c>
+		<c>kl-0000046c 'Sjeverni sotski'</c>
+		<c>kl-0000046d 'Baškirski'</c>
+		<c>kl-0000046e 'Luksemburški'</c>
+		<c>kl-0000046f 'grenlandski'</c>
+		<c>kl-00000470 'Igbo'</c>
+		<c>kl-00000474 'guarani'</c>
+		<c>kl-00000475 'havajski'</c>
+		<c>kl-00000480 'Ujgurski (naslijeđeno)'</c>
+		<c>kl-00000481 'Maorski'</c>
+		<c>kl-00000485 'jakutski'</c>
+		<c>kl-00000488 'Wolof'</c>
+		<c>kl-00000492 'središnji kurdski'</c>
+		<c>kl-00000804 'kineski (pojednostavljeni) - SAD'</c>
+		<c>kl-00000807 'Njemački (Švicarska)'</c>
+		<c>kl-00000809 'Engleski (Ujedinjeno Kraljevstvo)'</c>
+		<c>kl-0000080a 'Latinskoamerički'</c>
+		<c>kl-0000080c 'Belgijski (valonski)'</c>
+		<c>kl-00000813 'Belgijski (Točka)'</c>
+		<c>kl-00000816 'Portugalski'</c>
+		<c>kl-0000081a 'Srpski (latinica)'</c>
+		<c>kl-0000082c 'azerski – ćirilica'</c>
+		<c>kl-0000083b 'Švedski sa saamijskim'</c>
+		<c>kl-00000843 'Uzbečki ćirilica'</c>
+		<c>kl-00000850 'Mongolski (mongolsko pismo)'</c>
+		<c>kl-0000085d 'Inuktitutski - latinica'</c>
+		<c>kl-0000085f 'srednjoatlasko tamazitsko'</c>
+		<c>kl-00000c04 'kineski (tradicionalni, posebna upravna jedinica Hong Kong) – SAD'</c>
+		<c>kl-00000c0c 'Francuski (Kanada, nasljeđe)'</c>
+		<c>kl-00000c1a 'Srpski (ćirilica)'</c>
+		<c>kl-00000c51 'džongka'</c>
+		<c>kl-00001004 'kineski (pojednostavljeni, Singapur) – SAD'</c>
+		<c>kl-00001009 'Francuski (Kanada)'</c>
+		<c>kl-0000100c 'Francuski (Švicarska)'</c>
+		<c>kl-0000105f 'tifinar (osnovni)'</c>
+		<c>kl-00001404 'kineski (tradicionalni, posebna upravna jedinica Makao) - SAD'</c>
+		<c>kl-00001809 'Irski'</c>
+		<c>kl-0000201a 'bosanski (ćirilica)'</c>
+		<c>kl-00004009 'engleski (Indija)'</c>
+		<c>kl-00010401 'arapski (102)'</c>
+		<c>kl-00010402 'bugarski (latinica)'</c>
+		<c>kl-00010405 'češki (QWERTY)'</c>
+		<c>kl-00010407 'Njemački (IBM)'</c>
+		<c>kl-00010408 'grčki (220)'</c>
+		<c>kl-00010409 'Sjedinjene Države-Dvorak'</c>
+		<c>kl-0001040a 'Španjolski (varijacija)'</c>
+		<c>kl-0001040e 'Mađarski 101-tipka'</c>
+		<c>kl-00010410 'Talijanski (142)'</c>
+		<c>kl-00010415 'Poljski (214)'</c>
+		<c>kl-00010416 'portugalski (brazilski ABNT2)'</c>
+		<c>kl-00010418 'Rumunjski (standardni)'</c>
+		<c>kl-00010419 'Ruski (pisaći stroj)'</c>
+		<c>kl-0001041b 'Slovački (QWERTY)'</c>
+		<c>kl-0001041e 'Thai Pattachote'</c>
+		<c>kl-0001041f 'Turski F'</c>
+		<c>kl-00010426 'Latvijski (QWERTY)'</c>
+		<c>kl-00010427 'Litavski'</c>
+		<c>kl-0001042b 'armenski zapadni (naslijeđeno)'</c>
+		<c>kl-0001042c 'azerski (standardni)'</c>
+		<c>kl-0001042e 'lužičkosrpski, prošireni'</c>
+		<c>kl-0001042f 'makedonski (Sjeverna Makedonija) – standardni'</c>
+		<c>kl-00010437 'gruzijsko pismo (QWERTY)'</c>
+		<c>kl-00010439 'Hindi tradicionalni'</c>
+		<c>kl-0001043a 'Malteški 48 tipki'</c>
+		<c>kl-0001043b 'Saamijski proširen za Norvešku'</c>
+		<c>kl-00010444 'tatarsko'</c>
+		<c>kl-00010445 'bengalski – INSCRIPT (naslijeđeno)'</c>
+		<c>kl-00010451 'tibetsko (NRK) – ažurirano'</c>
+		<c>kl-00010453 'kmerski (NIDA)'</c>
+		<c>kl-0001045a 'Sirijski fonetski'</c>
+		<c>kl-0001045b 'Sinhaleški - Wij 9'</c>
+		<c>kl-0001045c 'čeroki – fonetski'</c>
+		<c>kl-0001045d 'Inuktitutski - nuktitutski'</c>
+		<c>kl-00010465 'maldivski - pisaći stroj'</c>
+		<c>kl-00010480 'Ujgurski'</c>
+		<c>kl-0001080c 'Belgijski (zarez)'</c>
+		<c>kl-0001083b 'Finski sa saamijskim'</c>
+		<c>kl-00010850 'tradicionalno mongolsko (standardno)'</c>
+		<c>kl-00010c00 'Mijanmar (fonetski redoslijed)'</c>
+		<c>kl-00011009 'Kanadski višejezični standard'</c>
+		<c>kl-0001105f 'tifinar (prošireni)'</c>
+		<c>kl-00011809 'škotski galski'</c>
+		<c>kl-00020401 'arapski (102) AZERTY'</c>
+		<c>kl-00020402 'bugarski (fonetski)'</c>
+		<c>kl-00020405 'češki (programerski)'</c>
+		<c>kl-00020408 'grčki (319)'</c>
+		<c>kl-00020409 'Engleski (SAD, internacionalni)'</c>
+		<c>kl-0002040d 'hebrejski (standardni)'</c>
+		<c>kl-00020418 'Rumunjski (programerski)'</c>
+		<c>kl-00020419 'ruski - mnemonički'</c>
+		<c>kl-0002041e 'Thai Kedmanee (ne-ShiftLock)'</c>
+		<c>kl-00020422 'Ukrajinski (napredni)'</c>
+		<c>kl-00020426 'latvijsko (standardno)'</c>
+		<c>kl-00020427 'Standardni litvanski'</c>
+		<c>kl-0002042b 'armenski (fonetski)'</c>
+		<c>kl-0002042e 'lužičkosrpski, standardni'</c>
+		<c>kl-00020437 'gruzijsko pismo (ergonomski)'</c>
+		<c>kl-00020445 'bengalski – INSCRIPT'</c>
+		<c>kl-0002083b 'Saamijski proširen za Finsku/Švedsku'</c>
+		<c>kl-00020c00 'novi tajski lue'</c>
+		<c>kl-00030402 'bugarski'</c>
+		<c>kl-00030408 'grčki (220) latinica'</c>
+		<c>kl-0003041e 'Thai Pattachote (ne-ShiftLock)'</c>
+		<c>kl-0003042b 'armenski (strojopis)'</c>
+		<c>kl-00030437 'gruzijski (ministarstvo obrazovanja i znanosti)'</c>
+		<c>kl-00030c00 'tajski le'</c>
+		<c>kl-00040402 'bugarski (tradicionalni fonetski)'</c>
+		<c>kl-00040408 'grčki (319) latinica'</c>
+		<c>kl-00040437 'gruzijsko pismo (stara abeceda)'</c>
+		<c>kl-00040c00 'ogamski'</c>
+		<c>kl-00050408 'grčki latinica'</c>
+		<c>kl-00050409 'SAD-engleska tablica za IBM Arapski 238_L'</c>
+		<c>kl-00050429 'perzijski (standardni)'</c>
+		<c>kl-00060408 'grčki politonski'</c>
+		<c>kl-00070c00 'tibetoburmanski (osnovni)'</c>
+		<c>kl-00080c00 'tibetoburmanski (standardni)'</c>
+		<c>kl-00090c00 'nko'</c>
+		<c>kl-000a0c00 'phags-pa'</c>
+		<c>kl-000b0c00 'bugijsko'</c>
+		<c>kl-000c0c00 'gotsko'</c>
+		<c>kl-000d0c00 'olčiki'</c>
+		<c>kl-000e0c00 'somalsko'</c>
+		<c>kl-000f0c00 'staroitalsko'</c>
+		<c>kl-00100c00 'sorsko'</c>
+		<c>kl-00110c00 'javansko'</c>
+		<c>kl-00120c00 'futhark'</c>
+		<c>langarabic 'Arabic'</c>
+		<c>langbulgarian 'Bulgarian'</c>
+		<c>langchineses 'Chinese Simplified'</c>
+		<c>langchineset 'Chinese Traditional'</c>
+		<c>langczech 'Czech'</c>
+		<c>langdanish 'Danish'</c>
+		<c>langdutch 'Dutch'</c>
+		<c>langenglishgb 'English (GB)'</c>
+		<c>langestonian 'Estonian'</c>
+		<c>langfinnish 'Finnish'</c>
+		<c>langfrench 'French'</c>
+		<c>langfrenchcanadian 'French (Canadian)'</c>
+		<c>langgerman 'German'</c>
+		<c>langgreek 'Greek'</c>
+		<c>langhebrew 'Hebrew'</c>
+		<c>langhungarian 'Hungarian'</c>
+		<c>langime 'Input Method Editor (IME)'</c>
+		<c>langimejp 'Japanese (IME)'</c>
+		<c>langimeko 'Korean (IME)'</c>
+		<c>langimetc 'Chinese Traditional (IME)'</c>
+		<c>langitalian 'Italian'</c>
+		<c>langjapanese 'Japanese'</c>
+		<c>langkorean 'Korean'</c>
+		<c>langlatvian 'Latvian'</c>
+		<c>langlithuanian 'Lithuanian'</c>
+		<c>langnorwegian 'Norwegian'</c>
+		<c>langpolish 'Polish'</c>
+		<c>langportuguesebr 'Portuguese (Brazilian)'</c>
+		<c>langportuguesept 'Portuguese'</c>
+		<c>langpseudolocale 'Pseudo-locale'</c>
+		<c>langromanian 'Romanian'</c>
+		<c>langrussian 'Russian'</c>
+		<c>langserbian 'Serbian'</c>
+		<c>langslovak 'Slovak'</c>
+		<c>langslovenian 'Slovenian'</c>
+		<c>langspanish 'Spanish'</c>
+		<c>langswedish 'Swedish'</c>
+		<c>langthai 'Thai'</c>
+		<c>langturkish 'Turkish'</c>
+		<c>langukrainian 'Ukrainian'</c>
+		<c>lmhosts 'TCP/IP NetBIOS Helper'</c>
+		<c>location 'Windows Location Framework Service'</c>
+		<c>lockscreens 'Lock Screen backgrounds'</c>
+		<c>lpasvc 'Local Profile Assistant Service'</c>
+		<c>lpksetup 'Language Pack Setup'</c>
+		<c>mailcommdll 'Windows Mail Communications DLL'</c>
+		<c>manifestbackup 'Manifest Backup (WinSxS$#92;Backup)'</c>
+		<c>manualsetup 'Ručni Setup'</c>
+		<c>mdac 'Microsoft Data Access Components (MDAC)'</c>
+		<c>mediaplayer 'Windows Media Player'</c>
+		<c>mediaplayernetworksharing 'WMP Network Sharing Service'</c>
+		<c>mediastreaming 'Windows Media Streaming'</c>
+		<c>messagingsvc 'Messaging Service'</c>
+		<c>Microsoft.AAD.BrokerPlugin 'AAD.BrokerPlugin'</c>
+		<c>Microsoft.AccountsControl 'AccountsControl'</c>
+		<c>Microsoft.Advertising.Xaml 'Advertising.Xaml'</c>
+		<c>Microsoft.AsyncTextService 'AsyncTextService'</c>
+		<c>Microsoft.BingWeather 'BingWeather'</c>
+		<c>Microsoft.BioEnrollment 'BioEnrollment'</c>
+		<c>Microsoft.CredDialogHost 'CredDialogHost'</c>
+		<c>Microsoft.DesktopAppInstaller 'DesktopAppInstaller'</c>
+		<c>Microsoft.ECApp 'ECApp'</c>
+		<c>Microsoft.GetHelp 'GetHelp'</c>
+		<c>Microsoft.Getstarted 'Centar dobrodošlice (Početak)'</c>
+		<c>Microsoft.HEIFImageExtension 'HEIFImageExtension'</c>
+		<c>Microsoft.LockApp 'LockApp'</c>
+		<c>Microsoft.Messaging 'Messaging'</c>
+		<c>Microsoft.Microsoft3DViewer 'Microsoft3DViewer'</c>
+		<c>Microsoft.MicrosoftOfficeHub 'MicrosoftOfficeHub'</c>
+		<c>Microsoft.MicrosoftSolitaireCollection 'MicrosoftSolitaireCollection'</c>
+		<c>Microsoft.MicrosoftStickyNotes 'MicrosoftStickyNotes'</c>
+		<c>Microsoft.MixedReality.Portal 'MixedReality.Portal'</c>
+		<c>Microsoft.MSPaint 'Paint 3D'</c>
+		<c>Microsoft.Office.OneNote 'Office.OneNote'</c>
+		<c>Microsoft.OneConnect 'OneConnect'</c>
+		<c>Microsoft.People 'People'</c>
+		<c>Microsoft.PPIProjection 'PPIProjection'</c>
+		<c>Microsoft.Print3D 'Print3D'</c>
+		<c>Microsoft.ScreenSketch 'ScreenSketch'</c>
+		<c>Microsoft.Services.Store.Engagement 'Services.Store.Engagement'</c>
+		<c>Microsoft.SkypeApp 'SkypeApp'</c>
+		<c>Microsoft.UI.Xaml.2.0 'UI.Xaml.2.0'</c>
+		<c>Microsoft.VP9VideoExtensions 'VP9VideoExtensions'</c>
+		<c>Microsoft.Wallet 'Wallet Service'</c>
+		<c>Microsoft.WebMediaExtensions 'WebMediaExtensions'</c>
+		<c>Microsoft.WebpImageExtension 'WebpImageExtension'</c>
+		<c>Microsoft.Win32WebViewHost 'Win32WebViewHost'</c>
+		<c>Microsoft.Windows.Apprep.ChxApp 'SmartScreen'</c>
+		<c>Microsoft.Windows.AssignedAccessLockApp 'AssignedAccessLockApp'</c>
+		<c>Microsoft.Windows.CallingShellApp 'CallingShellApp'</c>
+		<c>Microsoft.Windows.CapturePicker 'CapturePicker'</c>
+		<c>Microsoft.Windows.ContentDeliveryManager 'ContentDeliveryManager'</c>
+		<c>Microsoft.Windows.Cortana 'Cortana'</c>
+		<c>Microsoft.Windows.NarratorQuickStart 'NarratorQuickStart'</c>
+		<c>Microsoft.Windows.OOBENetworkCaptivePortal 'OOBENetworkCaptivePortal'</c>
+		<c>Microsoft.Windows.OOBENetworkConnectionFlow 'OOBENetworkConnectionFlow'</c>
+		<c>Microsoft.Windows.ParentalControls 'ParentalControls'</c>
+		<c>Microsoft.Windows.PeopleExperienceHost 'PeopleExperienceHost'</c>
+		<c>Microsoft.Windows.Photos 'Photos'</c>
+		<c>Microsoft.Windows.PinningConfirmationDialog 'PinningConfirmationDialog'</c>
+		<c>Microsoft.Windows.SecureAssessmentBrowser 'SecureAssessmentBrowser'</c>
+		<c>Microsoft.Windows.XGpuEjectDialog 'XGpuEjectDialog'</c>
+		<c>Microsoft.WindowsAlarms 'WindowsAlarms'</c>
+		<c>Microsoft.WindowsCalculator 'WindowsCalculator'</c>
+		<c>Microsoft.WindowsCamera 'WindowsCamera'</c>
+		<c>microsoft.windowscommunicationsapps 'Windows Mail'</c>
+		<c>Microsoft.WindowsFeedbackHub 'WindowsFeedbackHub'</c>
+		<c>Microsoft.WindowsMaps 'WindowsMaps'</c>
+		<c>Microsoft.WindowsSoundRecorder 'WindowsSoundRecorder'</c>
+		<c>Microsoft.Xbox.TCUI 'Xbox.TCUI'</c>
+		<c>Microsoft.XboxGameCallableUI 'XboxGameCallableUI'</c>
+		<c>Microsoft.XboxGameOverlay 'XboxGameOverlay'</c>
+		<c>Microsoft.XboxGamingOverlay 'XboxGamingOverlay'</c>
+		<c>Microsoft.XboxSpeechToTextOverlay 'XboxSpeechToTextOverlay'</c>
+		<c>Microsoft.YourPhone 'YourPhone'</c>
+		<c>Microsoft.ZuneMusic 'ZuneMusic'</c>
+		<c>Microsoft.ZuneVideo 'ZuneVideo'</c>
+		<c>migwiz 'Easy Transfer'</c>
+		<c>mobiledevicemanagement 'Mobile Device Management (MDM)'</c>
+		<c>mobilepc_networkprojection 'Network Projection'</c>
+		<c>msconfig 'Alat sistemske konfiguracije (MSConfig)'</c>
+		<c>msinfo32 'Alat sistemske informacije (MSInfo32)'</c>
+		<c>msmq 'Microsoft Message Queue (MSMQ)'</c>
+		<c>multipointconnector 'MultiPoint Connector'</c>
+		<c>ncb 'Network Connection Broker'</c>
+		<c>ncdauto 'Network Connected Devices Auto-Setup'</c>
+		<c>ndiscap 'NDIS Packet Capturing (NDISCAP)'</c>
+		<c>ndisimplat 'Network Adapter Multiplexor Protocol'</c>
+		<c>netbios 'NetBIOS over TCP transport'</c>
+		<c>netqos 'Quality of Service Packet Scheduler (QoS)'</c>
+		<c>nettopology 'Link-Layer Topology Discovery protocol (LLTD)'</c>
+		<c>nfsclient 'NFS Administrativni alati'</c>
+		<c>ntvdm 'NTVDM 16-bit podsustav'</c>
+		<c>offlinefiles 'Offline datoteke'</c>
+		<c>onesyncsvc 'Sync Host'</c>
+		<c>optionalfeatures 'Optional Features'</c>
+		<c>osk 'On-Screen Keyboard (Tablet PC)'</c>
+		<c>osk_acc 'On-Screen Keyboard (Alati pristupačnosti)'</c>
+		<c>otherthemes 'Druge teme'</c>
+		<c>pdfreader 'Windows Reader backend'</c>
+		<c>perfcounters 'Performance Counters'</c>
+		<c>perfmon 'Performance Monitor'</c>
+		<c>perftools 'Performance CMD Tools for Tracing'</c>
+		<c>phonesvc 'Phone Service'</c>
+		<c>pimindexmaintenancesvc 'Contact Data'</c>
+		<c>pla 'Performance Logs and Alerts'</c>
+		<c>playready</c>
+		<c>pos 'Point of Service (POS)'</c>
+		<c>printtopdf 'Print to PDF'</c>
+		<c>provisioning 'Windows Provisioning'</c>
+		<c>proximity 'Neposredna blizina'</c>
+		<c>pushnotifications 'Windows Push Notifications Service (WNS)'</c>
+		<c>rasauto 'Remote Access Auto Connection Manager'</c>
+		<c>rascmd 'Remote Access Service Client Tools'</c>
+		<c>rasmans 'Konekcijski manager daljinskog pristupa'</c>
+		<c>rdpclient 'Remote Desktop Client'</c>
+		<c>rdpserver 'Remote Desktop Server'</c>
+		<c>reliabilityanalysis 'Reliability Analysis Services'</c>
+		<c>remoteaccessservice 'Usmjeravanje i daljinski pristup usluga'</c>
+		<c>remoteassistance 'Remote Assistance'</c>
+		<c>remoteportredirector 'Remote Desktop Services Port Redirector'</c>
+		<c>remoteregistry 'Remote Registry'</c>
+		<c>retaildemo 'Retail Demo Content'</c>
+		<c>rightsmanagement 'Rights Management support'</c>
+		<c>rotationmanager 'Auto-Rotation Manager'</c>
+		<c>rpclocator 'Remote Procedure Call (RPC) Locator'</c>
+		<c>screensavers 'Screensaveri'</c>
+		<c>securestartup 'BitLocker Drive Enkripcija'</c>
+		<c>settingsync 'Postavljanje Sync'</c>
+		<c>sharedpc 'Shared PC mode'</c>
+		<c>sharemediacpl 'kontrolna ploča dijeljenih medija'</c>
+		<c>shellhwdetection 'Shell Hardware Detection'</c>
+		<c>sihclient 'Server-Initiated Healing Client'</c>
+		<c>simpletcp 'Pojedinačni TCP/IP servis'</c>
+		<c>smbdirect 'SMB Direct (RDMA)'</c>
+		<c>smbserver 'SMB Server Common'</c>
+		<c>smbv1 'SMB v1'</c>
+		<c>smbv2 'SMB v2'</c>
+		<c>smbwitnessclientapi 'SMB Witness Client API'</c>
+		<c>smsrouter 'SMS Router Service'</c>
+		<c>soundsdefault 'Zvukovi (zadano)'</c>
+		<c>sourcessxsdir 'Manual feature repository'</c>
+		<c>speechcommon 'Prepoznavanje govora'</c>
+		<c>speechtts 'Speech TTS'</c>
+		<c>staticfontcache 'Static Font Cache'</c>
+		<c>stepsrecorder 'Steps Recorder'</c>
+		<c>stici 'Still Image Class Installer'</c>
+		<c>storageqos 'Storage Quality of Service (Storage QoS)'</c>
+		<c>storagespaces 'Storage Spaces'</c>
+		<c>supportdir 'Support directory'</c>
+		<c>symboliclinks 'Legacy symbolic links'</c>
+		<c>synccenter 'Sync Centar'</c>
+		<c>sysprep 'Alat sistemske pripreme (Sysprep)'</c>
+		<c>systemrestore 'Vraćanje sustava'</c>
+		<c>tabletextservice 'Table Text Servis'</c>
+		<c>telnetclient 'Telnet Client'</c>
+		<c>telnetserver 'Telnet Server'</c>
+		<c>tempcache 'Cache i temp datoteke'</c>
+		<c>textprediction 'Predviđanje teksta'</c>
+		<c>tftpclient 'TFTP client'</c>
+		<c>tieringengine 'Storage Tiers Management'</c>
+		<c>tpm 'Trusted Platform Module (TPM)'</c>
+		<c>tpmvsc 'Virtualna Smart Card'</c>
+		<c>trkwks 'Distributed Link Tracking Client'</c>
+		<c>uev 'User Experience Virtualization (UE-V)'</c>
+		<c>unistoresvc 'User Data Storage'</c>
+		<c>upnp 'UPnP Device Host'</c>
+		<c>userdatasvc 'User Data Access'</c>
+		<c>userdeviceregistration 'User Device Registration'</c>
+		<c>vcmcodecs 'Video Compression Manager (VCM) codecs'</c>
+		<c>vss 'Volume Shadow Copy'</c>
+		<c>wcn 'Windows Connect Now'</c>
+		<c>webcamexperience 'Webcam Experience'</c>
+		<c>webclient</c>
+		<c>wifinetworkmanager 'Wi-Fi Network Manager (Wi-Fi Sense)'</c>
+		<c>Windows.PrintDialog 'PrintDialog'</c>
+		<c>windowstogo 'Windows To Go'</c>
+		<c>windowsupdate 'Windows ažuriranje'</c>
+		<c>winocr 'Windows TIFF IFilter(OCR)'</c>
+		<c>winre 'Windows oporavak'</c>
+		<c>winrm 'Windows Remote Management (WS-Management)'</c>
+		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
+		<c>wiredautoconfig 'Wired AutoConfig'</c>
+		<c>wmitools 'Windows Management Instrumentation Tools'</c>
+		<c>wordpad</c>
+		<c>wwanautoconfig 'WWAN AutoConfig'</c>
+	</RemoveComponents>
+	<Compatibility protectHidden="true">
+		<ComponentFeatures>
+			<Feature enabled="no">CortanaSupport</Feature>
+			<Feature enabled="yes">DefaultFonts</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="yes">OfficeSupport</Feature>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="no">OOBE</Feature>
+			<Feature enabled="yes">AppxSupport</Feature>
+			<Feature enabled="no">Recommended-All</Feature>
+			<Feature enabled="no">Printing</Feature>
+			<Feature enabled="no">ManualSetup</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="yes">USBModem</Feature>
+			<Feature enabled="yes">VideoPlayback</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="yes">ActivationKMS</Feature>
+			<Feature enabled="no">WindowsUpdate</Feature>
+			<Feature enabled="yes">WLAN</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="yes">Hyper-V VM</Machine>
+			<Machine enabled="yes">HostMachine</Machine>
+			<Machine enabled="yes">Parallels VM</Machine>
+			<Machine enabled="yes">Virtual Box VM</Machine>
+			<Machine enabled="yes">VMware VM</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features>
+		<Feature name="DirectPlay">true</Feature>
+		<Feature name="LegacyComponents">true</Feature>
+		<Feature name="SmbDirect">false</Feature>
+		<Feature name="WCF-TCP-PortSharing45">false</Feature>
+		<Feature name="WindowsMediaPlayer">false</Feature>
+	</Features>
+	<AddPackages></AddPackages>
+	<Drivers showHidden="true">
+		<AddDrivers></AddDrivers>
+	</Drivers>
+	<Unattended mode="0">
+	</Unattended>
+	<Tweaks>
+		<Settings></Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveTrim</Task>
+			<Task>imageFormatWim</Task>
+			<Task>imageOptionsDontBackupPresetLog</Task>
+			<Task>imageOptionsCreateIso</Task>
+		</ImageTasks>
+		<AutoIsoFile>D:\Iso\HOS.iso</AutoIsoFile>
+		<AutoIsoLabel>HOS</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>true</CleanHotfixedLeftovers>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Add>
+			<Item type="Placeholder">
+				<Index>0</Index>
+			</Item>
+		</Add>
+		<Change></Change>
+		<Remove></Remove>
+	</Execution>
+	<Registry>
+	</Registry>
+</Preset>
